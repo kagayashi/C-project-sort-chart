@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\bin\Debug\Projekt_2_Naumov_Nikita_49102.exe.config
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\bin\Debug\Projekt_2_Naumov_Nikita_49102.exe
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\bin\Debug\Projekt_2_Naumov_Nikita_49102.pdb
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.Analiza.resources
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.Properties.Resources.resources
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.exe
+C:\Users\user\source\repos\Projekt_2_Naumov_Nikita_49102\obj\Debug\Projekt_2_Naumov_Nikita_49102.pdb
